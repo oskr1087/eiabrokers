@@ -7,3 +7,8 @@
 	path = oskr1087/odooec
 	url = git@github.com:oskr1087/odooec.git
 	branch = 12.0
+
+[submodule "ovnicraft/odooec"]
+	path = ovnicraft/odooec
+	url = git@github.com:ovnicraft/odooec.git
+	branch = 12.0
